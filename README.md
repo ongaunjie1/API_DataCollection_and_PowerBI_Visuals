@@ -67,13 +67,53 @@
 * Added Drillthrough capability for the movie details
 * Added a key influencers tools to analyze factors that have the most impact on a particular outcome.
 
-### Accessing the Dashboard:
+# Refer to the images below for a more detailed showcase of the PowerBI dashboard
+
+## 1) Main page (First Page)
+![1](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/d9cda05a-21fc-4036-9870-fd0913d3c125)
+## Table: Descriptions for the numbers labeled
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/084bf055-fbbe-4e46-b1a2-6c703f3657d7)
+
+
+## 2) Graph visualization page (Second Page)
+### This page contains 4 visuals
+* 1st Visual: Analyzing Top production companies based on profits
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/32b52a86-5ddb-480f-ba3a-e156dbf104bd)
+
+* 2nd Visual: Analyzing Relationship between movie metrics
+![Slide4](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/bedf5312-a056-4f92-9866-94242653841c)
+
+* 3rd Visual: Movie Genre Analysis
+![Slide5](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/894fde9e-ccec-415b-a7bd-bf6ba945f443)
+
+* 4th Visual: Trend line plots for all movies
+![Slide6](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/fd304c2d-9e3e-4d8f-b0de-849bc92fab76)
+
+## 3) Movie details page using drillthrough feature (third Page)
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/e1c5d3fc-a486-49f8-af91-63b0f2bddbb2)
+* Right click any movie title from the table and navigate to the drillthrough page
+
+### Upon clicking, it will redirect you to the movie details page
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/3a2b8dc0-fd1b-48f6-a65b-bd32a9a580d1)
+
+## 4) Key influencers page (Fourth Page)
+
+### What influences runtime to increase ?
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/8c4f0c54-b487-4efa-a00a-d249592db423)
+
+### What influences profit to increase ?
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/f49db892-b122-424c-b704-89e3c5611aab)
+
+### What influences profit to decrease ?
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/a3de776e-9f4c-4abf-b552-6ee54db2b598)
+
+### What influences budget to decrease ?
+![image](https://github.com/ongaunjie1/API_DataCollection_and_PowerBI_Visuals/assets/118142884/7782a95d-41f6-4b77-ad7c-a553581775dc)
+
+# Accessing the Dashboard:
 To explore the dashboard, download and open the PowerBI Desktop app, then load the movie_viz.pbix file.
 * IMPORTANT NOTE: You need to download the PowerBI Desktop in order to open the pbix file
-
-## Refer to the images below for a detailed showcase of the PowerBI dashboard
-
-
+* You can download the pbix file from this repository
 
 
 
