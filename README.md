@@ -60,12 +60,12 @@
 * **Key Influencers**: Discover the factors influencing key aspects.
 
 ### Dashboard Features:
-* Sidebar Navigation: A user-friendly sidebar with buttons for easy page navigation.
-* Bookmarks: Seamlessly toggle between different states, such as showing or hiding the sidebar.
-* Field Parameters: Effortlessly filter visuals based on different fields, such as top movies by budget, popularity, and more.
-* Simple Slicers: Easily filter movies by release date and genres.
-* Added Drillthrough capability for the movie details
-* Added a key influencers tools to analyze factors that have the most impact on a particular outcome.
+* **Sidebar Navigation**: A user-friendly sidebar with buttons for easy page navigation.
+* **Bookmarks**: Seamlessly toggle between different states, such as showing or hiding the sidebar.
+* **Field Parameters**: Effortlessly filter visuals based on different fields, such as top movies by budget, popularity, and more.
+* **Simple Slicers:** Easily filter movies by release date and genres.
+* **Drillthrough feature**: Added Drillthrough capability for the movie details
+* **Key influencers analysis**: Added key influencers tools to analyze factors that have the most impact on a particular outcome.
 
 # Refer to the images below for a more detailed showcase of the PowerBI dashboard
 
