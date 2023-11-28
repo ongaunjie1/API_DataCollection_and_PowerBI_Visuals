@@ -33,6 +33,9 @@
 
 ### Usage:
 * Replace the 'API KEY' with your actual themoviedb API key.
+```
+api_key = 'API KEY'
+```
 * Set the desired start and end years for data collection.
 * The script writes collected data to a CSV file format
 
